@@ -1,0 +1,52 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+header {
+  text-align: center;
+  font-family: "Arial", Helvetica, sans-serif;
+  font-size: 50px;
+  color: white;
+  background-color: darkred;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  color: white; 
+  background-color: darkred;
+  margin: ;
+  font-family: "Arial", Helvetica, sans-serif;
+  display: inline-block;
+}
+
+a:hover {
+  background: red;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline;
+  text-align: center;
+  padding: 13.8px;
+}
+
+.subheader {
+  text-align: center;
+  font-family: "Arial";
+  font-size: 20px;
+}
+
+p {
+  font-family: "Arial", Helvetica, sans-serif;
+}
